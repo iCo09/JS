@@ -28,5 +28,5 @@ else{
     console.log("less than 1200");
 }
 
-// AND -> &&
+// AND -> && 
 // OR -> || 
